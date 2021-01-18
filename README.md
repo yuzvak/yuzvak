@@ -1,7 +1,7 @@
 ### Hi everybody 👋
 
 My name is Igor and I am a web developer. Beginning. But the developer.
-I’m currently learning at National University Lviv Polytechnic
+I’m currently learning at Lviv Polytechnic National University
 
 #### My knowledge
   * node.js, express.js
