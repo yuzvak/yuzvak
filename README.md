@@ -5,9 +5,10 @@ I’m currently learning at National University Lviv Polytechnic
 
 #### My knowledge
   * node.js, express.js
-  * html, css, less, javascript
+  * html, css, less, javascript, typescript
   * Angular
   * mongodb
+  * Understanding and experience with python, java, c, c++, pawno
   
 #### My projects
   * [namalsk.pro](https://namalsk.pro) - service for viewing and moderating the database of game accounts
