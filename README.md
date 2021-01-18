@@ -18,4 +18,4 @@ I’m currently learning at National University Lviv Polytechnic
 #### My contacts
   * [vk.com/yuzvak](https://vk.com/yuzvak)
   * [instagram.com/yuzvak](https://instagram.com/yuzvak)
-  * [linkedin.com/yuzvak](https://linkedin.com/yuzvak)
+  * [linkedin.com/in/yuzvak](https://linkedin.com/in/yuzvak)
