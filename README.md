@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi everybody 👋
 
-<!--
-**yuzvak/yuzvak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Igor and I am a web developer. Beginning. But the developer.
+I’m currently learning at National University Lviv Polytechnic
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### My knowledge
+  * node.js, express.js
+  * html, css, less, javascript
+  * Angular
+  * mongodb
+  
+#### My projects
+  * [namalsk.pro](https://namalsk.pro) - service for viewing and moderating the database of game accounts
+  * [Magic Lamp](https://github.com/Y-Tech-nulp/ML) - IoT lamp built on arduino with the ability to control through the site / bot / mobile and desktop program
+  * [SportTool](https://github.com/Y-Tech-nulp/SportTool) - a service that was done in one day. A hackathon project that makes sports easier
+  * [Y-Tech](https://vk.com/ytech) - a project that develops different products that run on vk api
+  
+#### My contacts
+  * [vk.com/yuzvak](https://vk.com/yuzvak)
+  * [instagram.com/yuzvak](https://instagram.com/yuzvak)
+  * [linkedin.com/yuzvak](https://linkedin.com/yuzvak)
