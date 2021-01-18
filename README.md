@@ -8,7 +8,7 @@ I’m currently learning at National University Lviv Polytechnic
   * html, css, less, javascript, typescript
   * Angular
   * mongodb
-  * Understanding and experience with python, java, c, c++, pawno
+  * Understanding and experience with python, java, c, c++, pawno, mysql
   
 #### My projects
   * [namalsk.pro](https://namalsk.pro) - service for viewing and moderating the database of game accounts
