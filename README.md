@@ -1,20 +1,19 @@
-### Hi everybody 👋
+### 👋
 
-My name is Igor and I am a web developer. Beginning. But I strive for the best.
-I’m currently studying at Lviv Polytechnic National University
+Bachelor's in Computer Science. 
+Crafting innovative solutions using Node.js and associated technologies.
 
-#### My knowledge
-  * node.js, express.js
-  * html, css/less, javascript, typescript
-  * mongodb
-  
-#### My projects
-  * [namalsk.pro](https://namalsk.pro) - service for viewing and moderating the database of game accounts
-  * [Magic Lamp](https://github.com/Y-Tech-nulp/ML) - IoT lamp built on arduino with the ability to control via the site / bot / mobile and desktop program
-  * [SportTool](https://github.com/Y-Tech-nulp/SportTool) - a service that was done in one day. A hackathon project that makes sports easier
-  * [Y-Tech](https://vk.com/ytech) - a project that develops different products that run on vk api
-  
-#### My contacts
-  * [vk.com/yuzvak](https://vk.com/yuzvak)
-  * [instagram.com/yuzvak](https://instagram.com/yuzvak)
-  * [linkedin.com/in/yuzvak](https://linkedin.com/in/yuzvak)
+Experience:
+- Over 3 years as a dedicated Node.js Developer.
+- Proficient in developing with Angular, focusing on creating intuitive and responsive user interfaces.
+- Extensive hands-on experience with MongoDB, ensuring reliable and efficient data storage.
+- Delivered diverse projects ranging from automated social network bots to large-scale web applications.
+
+Key Skills:
+- Expertise in Node.js and Express.js: From performance optimization to robust security.
+- Angular development, tailored for user-friendly interfaces.
+- In-depth knowledge of MongoDB.
+
+Personal Attributes:
+- Commitment to continuous learning, keeping up with the latest IT trends.
+- A combination of analytical thinking and creativity for effective problem-solving.
