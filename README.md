@@ -1,6 +1,6 @@
 ### 👋
 
-Bachelor's in Computer Science. 
+Master's in Computer Science. 
 Crafting innovative solutions using Node.js and associated technologies.
 
 Experience:
